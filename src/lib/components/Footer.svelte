@@ -7,7 +7,7 @@
     <div>© {year} Walter Saturno</div>
     <div class="links">
       <a href="/">Twitter</a>
-      <a href="/">GitHub</a>
+      <a href="https://github.com/GemininoSagaa">GitHub</a>
       <a href="/">LinkedIn</a>
     </div>
   </div>
