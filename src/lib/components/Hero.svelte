@@ -15,7 +15,7 @@
     <div in:fade class="right">
       <div class="card-mock">
         <!-- coloca aquí una imagen o mockup -->
-        <img src="/src/assets/img/mockup-sample.png" alt="mockup" />
+        <img src="/img/principal.webp" alt="imagen inicio" />
       </div>
     </div>
   </div>
