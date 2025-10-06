@@ -4,6 +4,11 @@
     <a href="https://pag-gym.vercel.app/" target="_blank" rel="noopener noreferrer">Enlace Demo Gym</a>
 </main>
 
+<svelte:head>
+    <title>Demo Gym - Walter Saturno</title>
+    <meta name="description" content="Demo de un sitio web para un gimnasio, creado con Svelte y Vite por Walter Saturno." />
+</svelte:head>
+
 <style>
     main {
         padding: 2rem;
