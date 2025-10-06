@@ -6,7 +6,7 @@
   <div class="grid">
     <div in:fly={{ x: -40, duration: 500 }} class="left">
       <h1>Hola, soy <span class="accent">Walter Saturno</span></h1>
-      <p>Programador junior — hago sitios web, demos y soluciones front-end con Svelte y Vite. Me interesa el diseño, la ropa y crear productos bien pulidos.</p>
+      <p>Programador Web — hago sitios web, demos y soluciones front-end con Svelte y Vite.</p>
       <p class="cta">
         <a href="#projects" class="btn">Ver demos</a>
         <a href="#contact" class="btn ghost">Contactarme</a>
