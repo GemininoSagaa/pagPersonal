@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { json } from '@sveltejs/kit';
 import { createClient } from '@supabase/supabase-js';
 
